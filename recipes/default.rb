@@ -1,3 +1,5 @@
+include_recipe "php"
+
 package "curl" do
   action :install
 end
