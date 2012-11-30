@@ -1,7 +1,7 @@
 Description
 ===========
 
-Installs [Composer](http://getcomposer.org/) according to the documented [global install instructions](http://getcomposer.org/doc/00-intro.md#globally).
+Installs [Composer](http://getcomposer.org/) for Debian family nodes according to the documented [global install instructions](http://getcomposer.org/doc/00-intro.md#globally).
 
 Requirements
 ============
